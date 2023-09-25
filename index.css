@@ -1,0 +1,8 @@
+/* Select all div elements with the class "my-div" */
+.my-div {
+    width: 700px;
+    margin: auto;
+    font-family: "Helvetica Neue";
+    background: white;
+    padding: 30px;
+}

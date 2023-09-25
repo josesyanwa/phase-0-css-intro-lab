@@ -6,15 +6,31 @@ body {
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
   /* Your code here! */
+/* Select all div elements with the class "my-div" */
+.my-div {
+  width: 700px;
+  margin: auto;
+  font-family: "Helvetica Neue";
+  background: white;
+  padding: 30px;
 }
+
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
-  /* Your code here! */
+  /* Your cod/* Select the element with the id "main-header" */
+#main-header {
+  font-size: 22px;
+}
+e here! */
   color: red;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
-  /* Your code here! */
+  /* Your code here! */* Select elements with the class "perspective-questions" */
+.perspective-questions {
+  font-style: italic;
+}
+
 }
